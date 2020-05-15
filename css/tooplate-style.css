@@ -111,7 +111,7 @@ b, strong {
   display: inline-block;
   vertical-align: top;
   margin-top: 5px;
-  min-width: 260px;
+  min-width: 350px;
   position: relative;
 }
 
@@ -521,7 +521,8 @@ b, strong {
 		min-width: 200px;
 	}
   .animated-item {
-    font-size: 30px;
+    font-size: 25px;
+    width: 250px;
   }
 
   .custom-btn-group {
